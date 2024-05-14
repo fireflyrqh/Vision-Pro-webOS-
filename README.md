@@ -1,4 +1,4 @@
-# Apple visio Pro--visionOSWebOS+微信小程序
+# Apple visio Pro--visionOS界面WebOS+微信小程序
 
 化腐朽为神奇，把不可能变成了可能，这是生成式人工智能的独特魅力。
 
