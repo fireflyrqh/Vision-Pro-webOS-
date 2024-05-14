@@ -25,9 +25,9 @@ AIGC的 Prompt参考：
 
 实际上，这个微信小程序的设计想法是来源于github@Jaykef，他制作了一个基于web界面的VisionOS设计，基于此灵感，我扩展到了微信小程序上。不过，由于手机与PC的长宽比问题，微信小程序的界面设计要更小一些，删除了很多东西。才得以在手机小程序上看到。由于暂无商业变现能力，产品本身也没有什么价值，暂不做Android和iOS的兼容。
 
+注意：代码仓库，以及下方教程皆为@Jaykef的web程序。
 
 https://github.com/Jaykef/Vision-Pro-webOS/assets/11355002/3728f35c-22fa-4366-8bf9-88cff55468a3
-
 
 
 ## 安装步骤
